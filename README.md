@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brazolin
 - 👀 I’m interested in cloud computing, ti infrastructure automation, python, linux and windows.
-- 🌱 I’m currently learning: python, aws, azzure, docker, english
+- 🌱 I’m currently learning: python, aws, azure, docker, english
 - 📫 How to reach me: brazolin.walter+github@gmail.com
 
 <!---
